@@ -1,0 +1,96 @@
+html
+{
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    background-image: url("MaterialeLim/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: darkslategrey;
+}
+
+.main
+{
+    margin: auto;
+    width: 60%;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    padding: 5%;
+
+}
+
+.main img
+{
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
+.buttons
+{
+    background-color:rgba(0,221,0,255);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 3px 0;
+}
+
+h1
+{
+    color: rgba(0,221,0,255);
+    text-align: center;
+    font-size: 1.5em;
+}
+
+button
+{
+    font-size: 0.6em;
+}
+
+ul
+{
+    list-style-type: square;
+    list-style-position: inside;
+    color: white;
+}
+
+li
+{
+    line-height: 1;
+    margin: 0;
+}
+
+.carica_1
+{
+    height: 20px;
+    width: 50%;
+    background-color: rgba(245,180,83,255);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.carica_2
+{
+    height: 20px;
+    width: 80%;
+    background-color: rgba(0,221,0,255);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.carica_3
+{
+    height: 20px;
+    width: 30%;
+    background-color: rgba(190,65,65,255);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#sublist
+{
+    font-size: 0.8em;
+    line-height: 1.5;
+    margin: 5px 0;
+}
