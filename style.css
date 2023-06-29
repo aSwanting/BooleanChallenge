@@ -4,7 +4,7 @@ html
 }
 body
 {
-    background-image: url("MaterialeLim/background.jpg");
+    background-image: url("background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: darkslategrey;
@@ -59,6 +59,7 @@ li
 {
     line-height: 1;
     margin: 0;
+    font-weight: 600;
 }
 
 .carica_1
@@ -82,7 +83,7 @@ li
 .carica_3
 {
     height: 20px;
-    width: 30%;
+    width: 15%;
     background-color: rgba(190,65,65,255);
     border-radius: 5px;
     margin-bottom: 20px;
@@ -93,4 +94,5 @@ li
     font-size: 0.8em;
     line-height: 1.5;
     margin: 5px 0;
+    font-weight: normal;
 }
